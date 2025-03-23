@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DAA-Assignment-Group44/static/css/main.b630dcdc.css",
+    "main.js": "/DAA-Assignment-Group44/static/js/main.f427da5e.js",
+    "static/js/453.b5c8ead1.chunk.js": "/DAA-Assignment-Group44/static/js/453.b5c8ead1.chunk.js",
+    "static/media/Tomitaenron.jpg": "/DAA-Assignment-Group44/static/media/Tomitaenron.62edfd78833331db0ec8.jpg",
+    "static/media/Tomitawiki.jpg": "/DAA-Assignment-Group44/static/media/Tomitawiki.86e5ed8af9701d78015c.jpg",
+    "static/media/Chibaenron.jpg": "/DAA-Assignment-Group44/static/media/Chibaenron.a3600500e0d56f290968.jpg",
+    "static/media/ELSoverall.jpg": "/DAA-Assignment-Group44/static/media/ELSoverall.931b57fbdfd1d7d710da.jpg",
+    "static/media/Chibawiki.jpg": "/DAA-Assignment-Group44/static/media/Chibawiki.eccf435cd6c3548b9cec.jpg",
+    "static/media/Chibaskitter.jpg": "/DAA-Assignment-Group44/static/media/Chibaskitter.f28c7182a5645360a2e8.jpg",
+    "static/media/Tomitaoverall.jpg": "/DAA-Assignment-Group44/static/media/Tomitaoverall.f2fad56e7e619056099a.jpg",
+    "static/media/ELSenron.jpg": "/DAA-Assignment-Group44/static/media/ELSenron.4ac110487e0e1136a5a2.jpg",
+    "static/media/ELSskitter.jpg": "/DAA-Assignment-Group44/static/media/ELSskitter.3157c093649241de7d59.jpg",
+    "static/media/ELSwiki.jpg": "/DAA-Assignment-Group44/static/media/ELSwiki.f0318792cc9d96eae4c3.jpg",
+    "index.html": "/DAA-Assignment-Group44/index.html",
+    "main.b630dcdc.css.map": "/DAA-Assignment-Group44/static/css/main.b630dcdc.css.map",
+    "main.f427da5e.js.map": "/DAA-Assignment-Group44/static/js/main.f427da5e.js.map",
+    "453.b5c8ead1.chunk.js.map": "/DAA-Assignment-Group44/static/js/453.b5c8ead1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b630dcdc.css",
+    "static/js/main.f427da5e.js"
+  ]
+}
